@@ -1,7 +1,7 @@
 ![header](/xK.gif)
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=ℍ𝕚,+𝕀'𝕞+𝔽𝕆𝕋𝕀𝕊;)](https://git.io/typing-svg)
 [![trophy](https://github-profile-trophy.vercel.app/?username=06fotis06&theme=dracula&margin-w=10&margin-h=10&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=06fotis06&theme=radical&card_width=700)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=06fotis06&theme=radical&card_width=720)](https://git.io/streak-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=06fotis06&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
