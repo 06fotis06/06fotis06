@@ -28,6 +28,6 @@
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/> 
   
-  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" title="AWS" alt="AWS" width="40" height="40"/> 
 
 </div>
