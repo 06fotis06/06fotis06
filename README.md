@@ -1,4 +1,10 @@
-![header](/xK.gif)[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C11BF7&center=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&vCenter=%D0%9B%D0%9E%D0%96%D0%AC&repeat=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&width=435&lines=%E2%84%8D%F0%9D%95%9A%2C+%F0%9D%95%80'%F0%9D%95%9E+%F0%9D%94%BD%F0%9D%95%86%F0%9D%95%8B%F0%9D%95%80%F0%9D%95%8A)](https://git.io/typing-svg)
+![header](/xK.gif)[![Typing SVG]
+
+<p align="center">
+
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=ℍ𝕚,+𝕀'𝕞+𝔽𝕆𝕋𝕀𝕊&font=Fira%20Code&center=true&width=380&height=50"/></a>
+
+</p>
 ____
 [![trophy](https://github-profile-trophy.vercel.app/?username=06fotis06&theme=dracula&margin-w=10&margin-h=10&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 ____
