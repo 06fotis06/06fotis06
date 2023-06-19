@@ -26,7 +26,7 @@
   <img src="https://static-00.iconduck.com/assets.00/apps-autodesk-fusion-360-icon-1024x1024-j8d0sttp.png" title="AWS" alt="AWS" width="40" height="40"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg" title="AWS" alt="AWS" width="40" height="40"/> 
 
- 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/> 
   
   
 
