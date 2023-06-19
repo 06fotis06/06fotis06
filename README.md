@@ -1,6 +1,6 @@
 ![header](/xK.gif)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=ℍ𝕚,+𝕀'𝕞+𝔽𝕆𝕋𝕀𝕊;)](https://git.io/typing-svg)
 
-# ℍ𝕚, 𝕀'𝕞 𝔽𝕆𝕋𝕀𝕊
 
 
 <!--
