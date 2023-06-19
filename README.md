@@ -1,6 +1,6 @@
 ![header](/xK.gif)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=ℍ𝕚,+𝕀'𝕞+𝔽𝕆𝕋𝕀𝕊;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=ℍ𝕚,+𝕀'𝕞+𝔽𝕆𝕋𝕀𝕊&color=F724F5)](https://git.io/typing-svg)
 
 ____
 
@@ -12,7 +12,7 @@ ____
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=06fotis06&theme=radical&card_width=710&locale=ru)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=𝕃𝕒𝕟𝕘𝕦𝕒𝕘𝕖𝕤+𝕒𝕟𝕕+𝕋𝕠𝕠𝕝𝕤+:;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=𝕃𝕒𝕟𝕘𝕦𝕒𝕘𝕖𝕤+𝕒𝕟𝕕+𝕋𝕠𝕠𝕝𝕤:&color=F76CE7)](https://git.io/typing-svg)
 
 <div>
 
