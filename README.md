@@ -1,4 +1,4 @@
-![header](/xK.gif)[![Typing SVG]
+![header](/xK.gif)[![Typing SVG]]
 
 <p align="center">
 
