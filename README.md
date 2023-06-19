@@ -4,7 +4,7 @@
 
 ____
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=06fotis06&theme=dracula&margin-w=10&margin-h=10&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=06fotis06&theme=dracula&margin-w=10&margin-h=10&row=1&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ____
 
