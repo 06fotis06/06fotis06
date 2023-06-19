@@ -1,6 +1,6 @@
 ![header](/xK.gif)
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=ℍ𝕚,+𝕀'𝕞+𝔽𝕆𝕋𝕀𝕊;)](https://git.io/typing-svg)
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark&margin-w=15&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark&margin-w=15&margin-h=15&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <!--
