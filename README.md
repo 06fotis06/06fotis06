@@ -19,7 +19,7 @@
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/> 
 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-plain.svg" title="MySQL"  alt="MySQL" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/> 
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/> 
 
