@@ -1,14 +1,14 @@
 ![header](/xK.gif)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=ℍ𝕚,+𝕀'𝕞+𝔽𝕆𝕋𝕀𝕊&color=F724F5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=𝕀+𝕒𝕞+𝕔𝕦𝕣𝕣𝕖𝕟𝕥𝕝𝕪+𝕝𝕖𝕒𝕣𝕟𝕚𝕟𝕘+𝕡𝕪𝕥𝕙𝕠𝕟+𝕒𝕟𝕕+𝕛𝕤;𝕀+𝕥𝕣𝕪+𝕠+𝕕𝕠+𝕝𝕚𝕘𝕙𝕥+𝕡𝕣𝕠𝕛𝕖𝕔𝕥𝕤+𝕚𝕟+𝕡𝕪𝕥𝕙𝕠𝕟&color=F724F5)](https://git.io/typing-svg)
 
 ____
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=06fotis06&theme=dracula&margin-w=10&margin-h=10&row=1&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-____
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=𝕀+𝕒𝕞+𝕔𝕦𝕣𝕣𝕖𝕟𝕥𝕝𝕪+𝕝𝕖𝕒𝕣𝕟𝕚𝕟𝕘+𝕡𝕪𝕥𝕙𝕠𝕟+𝕒𝕟𝕕+𝕛𝕤;𝕀+𝕥𝕣𝕪+𝕠+𝕕𝕠+𝕝𝕚𝕘𝕙𝕥+𝕡𝕣𝕠𝕛𝕖𝕔𝕥𝕤+𝕚𝕟+𝕡𝕪𝕥𝕙𝕠𝕟&color=F724F5)](https://git.io/typing-svg)
+
 ____
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=06fotis06&theme=radical&hide_border=%D0%9B%D0%9E%D0%96%D0%AC&locale=ru&card_width=710&background=12111F)](https://git.io/streak-stats)
