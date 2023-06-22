@@ -13,7 +13,7 @@ ____
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=06fotis06&theme=radical&hide_border=%D0%9B%D0%9E%D0%96%D0%AC&locale=ru&card_width=710&background=12111F)](https://git.io/streak-stats)
 
-[![Anurag's GitHub stats](https://leetcard.jacoblin.cool/JacobLinCool?sheets=https://gist.githubusercontent.com/06fotis06/72f86225cf2b7bd7d59051fdabb86223/raw/f39cb40617d432d7a6b2310003b3f2f634a5c320/style.css)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://leetcard.jacoblin.cool/JacobLinCool?sheets=https://gist.githubusercontent.com/06fotis06/72f86225cf2b7bd7d59051fdabb86223/raw/d6948f4c27a6e34cd092c3e649298b9a69512878/style.css)](https://github.com/anuraghazra/github-readme-stats)
 
 ____
 
