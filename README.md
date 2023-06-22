@@ -13,8 +13,8 @@ ____
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=06fotis06&theme=radical&hide_border=%D0%9B%D0%9E%D0%96%D0%AC&locale=ru&card_width=710&background=12111F)](https://git.io/streak-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=06fotis06&theme=radical&card_width=710&locale=ru&background=12111F)](https://github.com/anuraghazra/github-readme-stats)
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=06fotis06&theme=unicorn)](https://github.com/KnlnKS/leetcode-stats)
+[![Anurag's GitHub stats](https://leetcard.jacoblin.cool/JacobLinCool?sheets=https://gist.githubusercontent.com/06fotis06/72f86225cf2b7bd7d59051fdabb86223/raw/e805d06ddff2de39eee0788e35b5f3f44a720ae3/style.css)](https://github.com/anuraghazra/github-readme-stats)
+
 ____
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=𝕃𝕒𝕟𝕘𝕦𝕒𝕘𝕖𝕤+𝕒𝕟𝕕+𝕋𝕠𝕠𝕝𝕤:&color=F76CE7&repeat=%D0%9B%D0%9E%D0%96%D0%AC)](https://git.io/typing-svg)
