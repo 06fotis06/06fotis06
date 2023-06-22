@@ -14,6 +14,8 @@ ____
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=06fotis06&theme=radical&hide_border=%D0%9B%D0%9E%D0%96%D0%AC&locale=ru&card_width=710&background=12111F)](https://git.io/streak-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=06fotis06&theme=radical&card_width=710&locale=ru&background=12111F)](https://github.com/anuraghazra/github-readme-stats)
+[Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool?theme=unicorn)
+____
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=𝕃𝕒𝕟𝕘𝕦𝕒𝕘𝕖𝕤+𝕒𝕟𝕕+𝕋𝕠𝕠𝕝𝕤:&color=F76CE7&repeat=%D0%9B%D0%9E%D0%96%D0%AC)](https://git.io/typing-svg)
 
